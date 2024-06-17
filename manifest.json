@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+
+    "name": "Timeful",
+    "description": "A timely reminder that every minute counts",
+    "version": "1.0",
+
+    "chrome_url_overrides": {
+        "newtab": "newpage.html"
+    }
+}
